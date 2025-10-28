@@ -7,5 +7,5 @@
 ## Install Dotnet
   - version v8.0.415.
 
-## Open a terminal and run the commands
+## Open a terminal and run the command
   - dotnet run
