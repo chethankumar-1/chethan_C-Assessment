@@ -1,0 +1,20 @@
+D:\chethan_C# Assessment\obj\Debug\net8.0\chethan_C# Assessment.csproj.AssemblyReference.cache
+D:\chethan_C# Assessment\obj\Debug\net8.0\chethan_C# Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\chethan_C# Assessment\obj\Debug\net8.0\chethan_C# Assessment.AssemblyInfoInputs.cache
+D:\chethan_C# Assessment\obj\Debug\net8.0\chethan_C# Assessment.AssemblyInfo.cs
+D:\chethan_C# Assessment\obj\Debug\net8.0\chethan_C# Assessment.csproj.CoreCompileInputs.cache
+D:\chethan_C# Assessment\bin\Debug\net8.0\chethan_C# Assessment.exe
+D:\chethan_C# Assessment\bin\Debug\net8.0\chethan_C# Assessment.deps.json
+D:\chethan_C# Assessment\bin\Debug\net8.0\chethan_C# Assessment.runtimeconfig.json
+D:\chethan_C# Assessment\bin\Debug\net8.0\chethan_C# Assessment.dll
+D:\chethan_C# Assessment\bin\Debug\net8.0\chethan_C# Assessment.pdb
+D:\chethan_C# Assessment\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\chethan_C# Assessment\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\chethan_C# Assessment\bin\Debug\net8.0\System.Private.Windows.Core.dll
+D:\chethan_C# Assessment\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\chethan_C# Assessment\obj\Debug\net8.0\chethan_.090E5170.Up2Date
+D:\chethan_C# Assessment\obj\Debug\net8.0\chethan_C# Assessment.dll
+D:\chethan_C# Assessment\obj\Debug\net8.0\refint\chethan_C# Assessment.dll
+D:\chethan_C# Assessment\obj\Debug\net8.0\chethan_C# Assessment.pdb
+D:\chethan_C# Assessment\obj\Debug\net8.0\chethan_C# Assessment.genruntimeconfig.cache
+D:\chethan_C# Assessment\obj\Debug\net8.0\ref\chethan_C# Assessment.dll

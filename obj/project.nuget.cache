@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "btQJvEJiBnU=",
+  "success": true,
+  "projectFilePath": "D:\\chethan_C# Assessment\\chethan_C# Assessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.10\\microsoft.win32.systemevents.9.0.10.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\system.drawing.common\\9.0.10\\system.drawing.common.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
